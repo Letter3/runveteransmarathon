@@ -8,6 +8,7 @@ import '@fortawesome/fontawesome-free/js/brands';
 import Application from './application';
 import ReactDOM from 'react-dom';
 import React from 'react';
+__webpack_nonce__ = 'nonce';
 
 const domRoot = document.getElementById('root');
 

@@ -58,6 +58,8 @@ module.exports = {
     openPage: '',
     open: true,
     contentBase: pubPath,
-    historyApiFallback: true
-  }
+    historyApiFallback: true,
+    https:true
+  },
+  devtool: 'cheap-module-source-map'
 };

@@ -14,7 +14,7 @@ const Navigation = () => {
               aria-controls='navbarText'
               aria-expanded='false'
               aria-label='Toggle navigation'>
-        <span className='navbar-toggler-icon'></span>
+        <span className='navbar-toggler-icon'/>
       </button>
       <div className='collapse navbar-collapse' id='navbarText'>
         <ul className='navbar-nav mr-auto'>
@@ -42,7 +42,7 @@ const Navigation = () => {
           <li className='nav-item'>
             <a href='https://runsignup.com/Race/IN/ColumbiaCity/VeteransMarathon' target='_blank'
                rel='noopener noreferrer' className='nav-link'>Register
-              <i className='fas fa-external-link-alt padding-left-one'></i>
+              <i className='fas fa-external-link-alt padding-left-one'/>
             </a>
           </li>
         </ul>
